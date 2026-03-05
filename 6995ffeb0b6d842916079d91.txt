@@ -1,0 +1,3 @@
+This tutorial features Nessus Professional; however, due to recent changes in Tenable’s licensing policy regarding trial keys, we are currently unable to provide additional keys for individual exploration. We recommend following along with the demonstration closely.
+
+As some of the type of scans may not be available in Nessus Essential version.
