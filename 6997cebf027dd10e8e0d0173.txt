@@ -1,3 +1,2 @@
-The Subdomain Takeover exercise was demonstrated over the helpjuice.com. However due to recent changes on the helpjuice.com, they have revamp the entire web application and only allows email with new domain to register. As it blocks all free email provider such as @gmail.com hence this no longer fit our scenario to perform a subdomain takeover. However you may still try to learn the concepts to apply on others target.
-
-The exercise still valid, feel free to look into it.
+The Subdomain Takeover exercise was originally demonstrated using helpjuice.com. However, due to recent updates, helpjuice.com has undergone a complete platform overhaul and now restricts registration to users with a recognized corporate email domain, blocking free email providers such as @gmail.com. As a result, this platform no longer serves as a suitable environment for practicing subdomain takeover in our current scenario.
+That said, the underlying concepts remain fully applicable to other targets, and you are encouraged to explore them further. The exercise itself is still valid and worth reviewing for learning purposes.
